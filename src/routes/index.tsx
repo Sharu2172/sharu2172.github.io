@@ -19,7 +19,7 @@ const projects = [
   {
     name: "Muspell ETL",
     tag: "Cloud-Native Healthcare Pipeline",
-    link: "https://github.com/Sharu2172/Sharu2172",
+    link: "",
     stack: ["Python", "PySpark", "SQL Server", "FHIR", "Iceberg", "MinIO"],
     description:
       "Production-grade healthcare data processing pipeline for Pennstate Health. Extracted and transformed large-scale datasets into FHIR-compliant formats stored in data lake infrastructure — improving interoperability, data quality, and analytics readiness.",
