@@ -10,7 +10,7 @@ const skills = {
   "Big Data": ["Apache Spark", "PySpark", "Hadoop", "Spark JDBC", "Kafka"],
   "Cloud (AWS)": ["S3", "Glue", "Lambda"],
   "Data Storage": ["MongoDB", "MySQL", "SQL Server", "Apache Iceberg", "MinIO", "Parquet"],
-  "Data Engineering": ["ETL/ELT", "Data Modelling", "Data Quality", "Governance"],
+  "Data Engineering": ["ETL/ELT", "Data Modelling", "Data Quality", "Governance", "dbt (Foundational)"],
   "Web & API": ["FastAPI", "REST APIs", "HTML"],
   "DevOps & Tools": ["Git", "Docker", "CLI Automation", "Agile"],
 };
